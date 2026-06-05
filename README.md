@@ -1,6 +1,7 @@
 # Custom URL Shortener Backend
 
 A lightweight, robust URL shortening backend built with Python, Flask, and SQLite3. This application takes long URLs, secures them using SHA-256 hash with an added salt, converts the output to Base-62, and manages collisions dynamically.
+
 <img width="268" height="145" alt="image" src="https://github.com/user-attachments/assets/527a905d-99b1-4d3d-956c-1e892e80288f" />
 
 ## Features
