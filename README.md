@@ -14,5 +14,6 @@ A lightweight, robust URL shortening backend built with Python, Flask, and SQLit
 
 ## How to Run Locally
 ```bash
-git clone <YOUR_REPO_URL>
-cd <YOUR_REPO_NAME>
+git clone https://github.com/Modi-code/Url_Shortener.git
+cd Url_Shortener
+python ReDirect.py
